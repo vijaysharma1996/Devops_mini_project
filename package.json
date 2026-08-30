@@ -1,4 +1,7 @@
 {
+  "name": "devops-mini-project",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
@@ -10,8 +13,8 @@
     "vite": "^8.2.2"
   },
   "scripts": {
-    "dev": "tsx src/index.ts"
-    "buid":"..."
+    "dev": "tsx src/index.ts",
+    "build": "...",
     "test": "..."
   }
 }
