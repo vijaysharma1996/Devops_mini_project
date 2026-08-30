@@ -14,7 +14,7 @@
   },
   "scripts": {
     "dev": "tsx src/index.ts",
-    "start": "node index.js",
+    "start": "node index.ts",
     "build": "npm install"
   }
 }
